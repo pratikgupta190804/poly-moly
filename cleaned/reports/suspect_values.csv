@@ -1,0 +1,82 @@
+property_id,canon,value,n_measurements,sources,reason
+tg,[*]CC([*])C(=O)OCCN(C)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,125.1203,1.0,kaggle_opp2025,outside_typical_range_150-800
+tg,[*]O[Si]([*])(C([H])([H])[H])C([H])([H])[H],148.15,1.0,legacy:PolyMetriX,outside_typical_range_150-800
+tg,[*]O[Si]([*])(C)C,149.5,21.0,Physical Properties of Polymers Handbook;Polymer_Data_Handbook;Principles of Polymerization;legacy:PolyMetriX;legacy:PolyNC;legacy:other,outside_typical_range_150-800
+tg,[*]O[Si]([*])(C)C=C,144.15,1.0,legacy:PolyMetriX,outside_typical_range_150-800
+tg,[*]O[Si]([*])(C)CC,140.15,1.0,legacy:PolyMetriX,outside_typical_range_150-800
+tg,[*]O[Si]([*])(CC)CC,133.5,6.0,Polymer_Data_Handbook;legacy:PolyMetriX;legacy:PolyNC,outside_typical_range_150-800
+tg,[*]c1ccc(N([*])CCCCCC)cc1,144.5201,1.0,kaggle_opp2025,outside_typical_range_150-800
+tm,[*]CCc1ccc(-c2ccc([*])cc2)cc1,823.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Nc1ccc(-c2ccc(NC(=O)c3cccc(C([*])=O)c3)c(O)c2)cc1O,823.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Nc1ccc(C([*])=O)cc1,825.075,2.0,Polymer_Data_Handbook;legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Nc1ccc(C=Cc2ccc(NC(=O)c3ccc(C([*])=O)cc3)cc2)cc1,848.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Nc1ccc(CCc2ccc(NC(=O)c3ccc(C([*])=O)cc3)cc2)cc1,833.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Nc1ccc(NC(=O)c2ccc(C([*])=O)cc2)cc1,873.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Oc1ccc(-c2ccc(C([*])=O)cc2)cc1,853.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Oc1ccc(-c2ccc(OC(=O)c3ccc(-c4ccc(C([*])=O)cc4)cc3)cc2)cc1,873.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Oc1ccc(-c2ccc(OC(=O)c3ccc(C([*])=O)cc3)cc2)cc1,816.65,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Oc1ccc(C([*])=O)cc1,806.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]Oc1ccc2cc(C([*])=O)ccc2c1,828.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]c1ccc(-c2c(-c3ccccc3)nc3ccc(-c4ccc5nc(-c6ccccc6)c([*])c(-c6ccccc6)c5c4)cc3c2-c2ccccc2)cc1,823.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]c1ccc(-c2ccc(-c3c(-c4ccccc4)nc4ccc(-c5ccc6nc(-c7ccccc7)c([*])c(-c7ccccc7)c6c5)cc4c3-c3ccccc3)cc2)cc1,803.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]c1ccc(-c2ccc3nc([*])cc(-c4ccccc4)c3c2)cc1,853.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]c1ccc(-c2nc3ccc(-c4ccc5nc([*])c(-c6ccccc6)c(-c6ccccc6)c5c4)cc3c(-c3ccccc3)c2-c2ccccc2)cc1,828.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+tm,[*]c1ccc2nc([*])cc(-c3ccccc3)c2c1,825.15,1.0,legacy:PolyGraphMT,outside_typical_range_200-800
+density,[*]C(F)(F)C1([*])OC(F)(F)C(F)(C(F)(F)F)O1,2.04,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]C(F)C([*])(F)F,2.04,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]C([*])(F)F,2.171,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]C1Cc2ccccc2C1[*],0.63,1.0,legacy:PolyGraphMT,outside_typical_range_0.7-2.6
+density,[*]C=Cc1cc(OCC(CC)CCCC)c([*])cc1OC,0.66,1.0,legacy:PolyGraphMT,outside_typical_range_0.7-2.6
+density,[*]CC([*])Br,2.17,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]CCCC[*],0.6,1.0,Physical Properties of Polymers Handbook,outside_typical_range_0.7-2.6
+density,[*]C[Se][*],2.9775,1.0,legacy:PolyGraphMT,outside_typical_range_0.7-2.6
+density,[*]N=P([*])(Cl)Cl,2.15,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]N=P([*])(F)F,2.13,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]N=P([*])(OCC(F)(F)C(F)(F)F)OCC(F)(F)C(F)(F)F,2.02,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]N=P([*])(Oc1cccc(Br)c1)Oc1cccc(Br)c1,2.05,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]N=[SH][*],2.3035,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]OC([*])C(Cl)(Cl)Cl,2.012,1.0,legacy:PolyGraphMT,robust_z>4
+density,[*]OC([*])C(Cl)Cl,2.072,1.0,legacy:PolyGraphMT,robust_z>4
+tg_vs_tm,[*]C(=O)c1ccc(C(=O)N(CCC)c2ccc(Cc3ccc(N([*])CCC)cc3)cc2)cc1,0.9603055792377972,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]C(F)(F)C([*])(F)C(F)(F)F,0.999591431739917,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CC(CCCCCCCCCCCCCCCC)C1C(=O)N(CCCCCCCCCCCC)C(=O)C1[*],0.8284677552366816,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CC(CCCCCCCCCCCCCCCC)C1C(=O)N(CCCCNC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(=O)C1[*],0.7471366949278596,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CC([*])(C)C(=O)OCC1CO1,0.9894246771515871,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CC([*])(F)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,2.603394875069721,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CC([*])C(=O)NCCCCCCCCCCCC,0.898822527229185,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CC([*])C(=O)OCCN(C)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3.1022144288336904,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CC([*])c1ccncc1,0.9939356626506024,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CC1C(CO)OC(CO[*])C(NC(C)=O)C1O,0.9112558345570858,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CCC1C(=O)N(CCCCCCCCCCCCCC)C(=O)C1[*],0.9457606914021756,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CCC1C(=O)N(CCCCCCCCCCCCCCCC)C(=O)C1[*],0.9802214022140222,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CCC1C(=O)N(CCCCCCCCCCCCCCCCCC)C(=O)C1[*],0.9982365907421014,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CCCCCCCCCCNC(C)=N[*],0.9433668412855727,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CCCCCCCCCCOC(=O)c1ccccc1C(=O)O[*],0.9517653868415976,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CCCCCCCCc1nnc([*])o1,2.5556727775701864,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]CCOCCOCCOC(=O)CCC(=O)O[*],0.877458554307429,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]Cc1cc(COC(=O)Nc2ccc(Cc3ccc(NC(=O)O[*])cc3)cc2)cc(C(C)(C)C)c1,1.0,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]N=P([*])(OCC(F)(F)C(F)(F)F)OCC(F)(F)C(F)(F)F,2.6428733288012687,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]N=P([*])(Oc1cccc(C(F)(F)F)c1)Oc1cccc(C(F)(F)F)c1,2.5326474910770522,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]N=P([*])(Oc1cccc(Cl)c1)Oc1cccc(Cl)c1,2.581376680714429,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]N=P([*])(Oc1ccccc1)Oc1ccccc1,2.5010371487837073,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]NC(CCC(=O)OCCCCCCCCCCCC)C([*])=O,0.9479105900524953,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]NCCCCCCCCCCNC(=O)c1ccc(Cc2ccc(C([*])=O)cc2)cc1,0.903182863366816,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]Nc1ccc([*])cc1OC,0.8803800082610491,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]OC(C)COC(=O)CCCCC([*])=O,0.9842733989956252,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]OC(C)COC(=O)c1ccccc1C([*])=O,0.8743718592964824,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]OC([*])CCCCCC,2.565383391664015,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]O[Si]([*])(C)CCCOc1ccc(C(=O)Oc2ccc(OC)cc2)cc1,0.9387393196840239,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]Oc1ccc(NC(=O)c2cccc(C(=O)Nc3ccc(OC4COC5C([*])COC45)cc3)c2)cc1,0.9776035834266518,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]Oc1ccc(OC(=O)c2cc(OCCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc(C([*])=O)c2)cc1,0.783006217237596,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]Oc1ccc(S(=O)(=O)c2ccc([*])cc2)cc1,0.689748743718593,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]Oc1ccc(SSCCCCSSc2ccc([*])cc2)cc1,0.9779968684921188,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]Oc1cccc(OC(=O)Oc2ccc(OC([*])=O)cc2)c1,3.24710328649622,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]SCC(=O)NN=Cc1ccc(OCCCCCCCCCCOc2ccc(C=NNC(=O)CSc3nnc([*])s3)cc2OC)c(OC)c1,0.9510660608178958,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]Sc1c(C)cc([*])cc1C,0.9617956064947469,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]c1ccc(-c2ccc(N3C(=O)c4ccc(-c5ccc6c(c5)C(=O)N([*])C6=O)cc4C3=O)cc2C(F)(F)F)c(C(F)(F)F)c1,0.6435380916853187,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]c1ccc(-c2nc3cc4nc([*])oc4cc3o2)cc1,0.9464591600982668,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]c1ccc(-c2nnc(-c3cccc(-c4nnc([*])n4-c4ccccc4)c3)n2-c2ccccc2)cc1,0.9666100215863683,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]c1ccc(C(=O)c2ccc(-c3nc4cc(-c5ccc6nc([*])[nH]c6c5)ccc4[nH]3)cc2)cc1,0.7266787341383617,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]c1ccc(Oc2ccc(-c3nc4ccc(Oc5ccc6nc([*])c(-c7ccccc7)nc6c5)cc4nc3-c3ccccc3)cc2)cc1,0.821164542702246,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]c1ccc2c(c1)CN(c1ccc(Oc3ccc(N4COc5ccc(C([*])(C)C)cc5C4)cc3)cc1)CO2,0.687028423816088,,,Tm<=Tg or Tm/Tg>2.5 (check both values)
+tg_vs_tm,[*]c1cccc(N2C(=O)c3ccc(Oc4ccc(C(C)(C)c5ccc(Oc6ccc7c(c6)C(=O)N([*])C7=O)cc5)cc4)cc3C2=O)c1,0.9878390067674148,,,Tm<=Tg or Tm/Tg>2.5 (check both values)

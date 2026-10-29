@@ -1,0 +1,42 @@
+Loaded 84,498 rows from Properties.csv
+Rows with property_id in ['tg', 'tm', 'density']: 22,563
+Added 1,124 Kaggle rows from train.csv (mode: fill-gaps)
+
+[tg] Celsius rows converted to Kelvin: 949
+[tg] Kaggle rows kept: 495 | skipped (polymer already in Properties.csv): 16
+[tg] exact duplicate records removed: 133
+[tg] polymers: 12940 | multi-measurement: 990 | moderate conflict (median): 182 | large conflict: 110
+[tg] unusual values flagged for review: 7
+
+[tm] Celsius rows converted to Kelvin: 754
+[tm] Kaggle rows kept: 0 | skipped (polymer already in Properties.csv): 0
+[tm] exact duplicate records removed: 25
+[tm] polymers: 4163 | multi-measurement: 236 | moderate conflict (median): 52 | large conflict: 68
+[tm] unusual values flagged for review: 16
+
+[density] rows with no unit (assumed g/cm3): 1700;  rows converted from kg/m3: 2
+[density] Kaggle rows kept: 405 | skipped (polymer already in Properties.csv): 208
+[density] exact duplicate records removed: 33
+[density] polymers: 2150 | multi-measurement: 104 | moderate conflict (median): 31 | large conflict: 59
+[density] unusual values flagged for review: 15
+
+Tg/Tm consistency: 43 of 1803 polymers with both values look suspicious
+
+=== CLEANING FUNNEL (rows / polymers left after each step) ===
+                                    tg    tm  density
+1_rows_with_property_id          15608  4943     3136
+2_scalar_values                  15288  4700     2921
+3_after_source_exclusion         15288  4700     2921
+4_valid_value_and_unit           15277  4690     2915
+5_physically_possible            15276  4690     2911
+6_valid_structure                15179  4681     2911
+7_after_exact_duplicate_removal  15030  4656     2670
+8_unique_polymers                12940  4163     2150
+9_final_polymers                 12830  4095     2091
+
+=== OUTPUT ===
+data_tg.csv:            12830 polymers
+data_tm.csv:             4095 polymers
+data_density.csv:        2091 polymers
+data_all.csv:           15505 polymers (blank where a property is missing)
+data_all_complete.csv:    479 polymers (all three present)
